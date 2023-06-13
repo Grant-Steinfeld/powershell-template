@@ -10,6 +10,12 @@
 
 Use pester
 
+NOTE: If it's necessary you may need to install pester
+
+```PowerShell
+install-module pester`
+```
+
 ```sh
 cd __tests__
 invoke-pester
