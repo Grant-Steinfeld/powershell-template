@@ -27,7 +27,8 @@
 
 
     FunctionsToExport = @(
-        'Get-Base64',
+        'ConvertTo-base64',
+        'ConvertFrom-base64',
         'Get-Secrets',
         'Show-Best'
     )
